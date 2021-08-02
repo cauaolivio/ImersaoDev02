@@ -1,0 +1,48 @@
+body {
+    background-image: url('img01.png');
+    background-size: cover;
+    font-family: 'Open Sans';
+}
+
+section {
+  -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+  box-shadow: 5px 5px 50px 8px rgba(27, 45, 61, 0.952);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 20px;
+}
+
+header {
+  background-image: url('https://image.freepik.com/vetores-gratis/fundo-da-matriz-3d_108964-302.jpg');
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px;
+}
+
+div {
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: #bac3d6;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
